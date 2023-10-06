@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
       inputs:
         package_name:
-          description: "com.lumoslabs.lumosity:"
+          description: "com.lumoslabs.lumosity"
           required: true
 
 jobs:
